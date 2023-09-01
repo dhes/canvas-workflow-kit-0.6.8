@@ -10,7 +10,7 @@ exclude = ["canvas_workflow_kit/schemas", "canvas_workflow_kit/scripts"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
-arrow = "^1.*"
+arrow = "1.*"
 cached-property = "1.5.*"
 requests = "2.*"
 memoization = "0.4.*"
